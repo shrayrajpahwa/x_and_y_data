@@ -1,0 +1,422 @@
+key,Film number in franchise (1 = original),Rotten Tomatoes score (%)
+Fast & Furious | The Fast and the Furious,1,55
+Fast & Furious | 2 Fast 2 Furious,2,37
+Fast & Furious | The Fast and the Furious: Tokyo Drift,3,38
+Fast & Furious | Fast & Furious,4,29
+Fast & Furious | Fast Five,5,78
+Fast & Furious | Fast & Furious 6,6,71
+Fast & Furious | Furious 7,7,82
+Fast & Furious | The Fate of the Furious,8,67
+Fast & Furious | Fast & Furious Presents: Hobbs & Shaw,9,67
+Fast & Furious | F9,10,59
+Saw (franchise) | Saw,1,50
+Saw (franchise) | Saw II,2,37
+Saw (franchise) | Saw III,3,29
+Saw (franchise) | Saw IV,4,18
+Saw (franchise) | Saw V,5,13
+Saw (franchise) | Saw VI,6,39
+Saw (franchise) | Saw 3D,7,9
+Saw (franchise) | Jigsaw,8,32
+Saw (franchise) | Spiral,9,37
+Saw (franchise) | Saw X,10,81
+Halloween (franchise) | Halloween (1978),1,97
+Halloween (franchise) | Halloween II (1981),2,27
+Halloween (franchise) | Halloween III: Season of the Witch,3,50
+Halloween (franchise) | Halloween 4: The Return of Michael Myers,4,42
+Halloween (franchise) | Halloween 5: The Revenge of Michael Myers,5,10
+Halloween (franchise) | Halloween: The Curse of Michael Myers,6,8
+Halloween (franchise) | Halloween H20: Twenty Years Later,7,54
+Halloween (franchise) | Halloween: Resurrection,8,10
+Halloween (franchise) | Halloween (2007),9,28
+Halloween (franchise) | Halloween II (2009),10,25
+Friday the 13th (franchise) | Friday the 13th (1980),1,50
+Friday the 13th (franchise) | Friday the 13th Part 2,2,30
+Friday the 13th (franchise) | Friday the 13th Part III,3,16
+Friday the 13th (franchise) | Friday the 13th: The Final Chapter,4,27
+Friday the 13th (franchise) | Friday the 13th: A New Beginning,5,12
+Friday the 13th (franchise) | Friday the 13th Part VI: Jason Lives,6,61
+Friday the 13th (franchise) | Friday the 13th Part VII: The New Blood,7,32
+Friday the 13th (franchise) | Friday the 13th Part VIII: Jason Takes Manhattan,8,13
+Friday the 13th (franchise) | Jason Goes to Hell: The Final Friday,9,12
+Friday the 13th (franchise) | Jason X,10,21
+Harry Potter (film series) | Philosopher's Stone,1,81
+Harry Potter (film series) | Chamber of Secrets,2,82
+Harry Potter (film series) | Prisoner of Azkaban,3,90
+Harry Potter (film series) | Goblet of Fire,4,88
+Harry Potter (film series) | Order of the Phoenix,5,78
+Harry Potter (film series) | Half-Blood Prince,6,84
+Harry Potter (film series) | Deathly Hallows – Part 1,7,77
+Harry Potter (film series) | Deathly Hallows – Part 2,8,96
+Pirates of the Caribbean (film series) | The Curse of the Black Pearl,1,79
+Pirates of the Caribbean (film series) | Dead Man's Chest,2,53
+Pirates of the Caribbean (film series) | At World's End,3,43
+Pirates of the Caribbean (film series) | On Stranger Tides,4,32
+Pirates of the Caribbean (film series) | Dead Men Tell No Tales,5,30
+Transformers (film series) | Transformers,1,57
+Transformers (film series) | Transformers: Revenge of the Fallen,2,19
+Transformers (film series) | Transformers: Dark of the Moon,3,35
+Transformers (film series) | Transformers: Age of Extinction,4,18
+Transformers (film series) | Transformers: The Last Knight,5,16
+Transformers (film series) | Bumblebee,6,91
+Transformers (film series) | Transformers: Rise of the Beasts,7,51
+Mission: Impossible (film series) | Mission: Impossible,1,65
+Mission: Impossible (film series) | Mission: Impossible 2,2,57
+Mission: Impossible (film series) | Mission: Impossible III,3,73
+Mission: Impossible (film series) | Mission: Impossible – Ghost Protocol,4,94
+Mission: Impossible (film series) | Mission: Impossible – Rogue Nation,5,94
+Mission: Impossible (film series) | Mission: Impossible – Fallout,6,98
+Mission: Impossible (film series) | Mission: Impossible – Dead Reckoning Part One[b],7,96
+Mission: Impossible (film series) | Mission: Impossible – The Final Reckoning,8,80
+Despicable Me (franchise) | Despicable Me,1,80
+Despicable Me (franchise) | Despicable Me 2,2,75
+Despicable Me (franchise) | Minions,3,55
+Despicable Me (franchise) | Despicable Me 3,4,58
+Despicable Me (franchise) | Minions: The Rise of Gru,5,70
+Despicable Me (franchise) | Despicable Me 4,6,56
+Despicable Me (franchise) | Minions & Monsters,7,89
+Resident Evil (film series) | Resident Evil (2002),1,36
+Resident Evil (film series) | Resident Evil: Apocalypse,2,18
+Resident Evil (film series) | Resident Evil: Extinction,3,24
+Resident Evil (film series) | Resident Evil: Afterlife,4,21
+Resident Evil (film series) | Resident Evil: Retribution,5,28
+Resident Evil (film series) | Resident Evil: The Final Chapter,6,38
+Resident Evil (film series) | Resident Evil: Welcome to Raccoon City,7,30
+Resident Evil (film series) | Resident Evil (2026),8,96
+The Twilight Saga (film series) | Twilight,1,49
+The Twilight Saga (film series) | The Twilight Saga: New Moon,2,29
+The Twilight Saga (film series) | The Twilight Saga: Eclipse,3,47
+The Twilight Saga (film series) | The Twilight Saga: Breaking Dawn – Part 1,4,25
+The Twilight Saga (film series) | The Twilight Saga: Breaking Dawn – Part 2,5,49
+The Hunger Games (film series) | The Hunger Games,1,84
+The Hunger Games (film series) | The Hunger Games: Catching Fire,2,90
+The Hunger Games (film series) | The Hunger Games: Mockingjay – Part 1,3,70
+The Hunger Games (film series) | The Hunger Games: Mockingjay – Part 2,4,70
+The Hunger Games (film series) | The Hunger Games: The Ballad of Songbirds & Snakes,5,64
+Terminator (franchise) | The Terminator,1,90
+Terminator (franchise) | Terminator 2: Judgment Day,2,90
+Terminator (franchise) | Terminator 3: Rise of the Machines,3,70
+Terminator (franchise) | Terminator Salvation,4,33
+Terminator (franchise) | Terminator Genisys,5,26
+Terminator (franchise) | Terminator: Dark Fate,6,70
+Alien (franchise) | Alien,1,93
+Alien (franchise) | Aliens,2,93
+Alien (franchise) | Alien 3,3,43
+Alien (franchise) | Alien Resurrection,4,55
+Alien (franchise) | Prometheus,5,73
+Alien (franchise) | Alien: Covenant,6,65
+Alien (franchise) | Alien: Romulus,7,80
+Predator (franchise) | Predator,1,64
+Predator (franchise) | Predator 2,2,36
+Predator (franchise) | Predators,3,65
+Predator (franchise) | The Predator,4,34
+Predator (franchise) | Prey,5,94
+Predator (franchise) | Predator: Killer of Killers,6,95
+Predator (franchise) | Predator: Badlands,7,86
+Die Hard (film series) | Die Hard,1,94
+Die Hard (film series) | Die Hard 2,2,69
+Die Hard (film series) | Die Hard with a Vengeance,3,60
+Die Hard (film series) | Live Free or Die Hard,4,82
+Die Hard (film series) | A Good Day to Die Hard,5,15
+Rambo (franchise) | First Blood,1,86
+Rambo (franchise) | Rambo: First Blood Part II,2,33
+Rambo (franchise) | Rambo III,3,39
+Rambo (franchise) | Rambo,4,38
+Rambo (franchise) | Rambo: Last Blood,5,26
+Scream (franchise) | Scream,1,78
+Scream (franchise) | Scream 2,2,83
+Scream (franchise) | Scream 3,3,45
+Scream (franchise) | Scream 4,4,61
+Scream (franchise) | Scream VI,5,77
+Scream (franchise) | Scream 7,6,30
+Final Destination | Final Destination,1,50
+Final Destination | Final Destination 2,2,52
+Final Destination | Final Destination 3,3,44
+Final Destination | The Final Destination,4,28
+Final Destination | Final Destination 5,5,64
+Final Destination | Final Destination Bloodlines,6,92
+Madagascar (franchise) | Madagascar,1,55
+Madagascar (franchise) | Madagascar: Escape 2 Africa,2,64
+Madagascar (franchise) | Madagascar 3: Europe's Most Wanted,3,78
+Madagascar (franchise) | Penguins of Madagascar,4,74
+Kung Fu Panda | Kung Fu Panda,1,87
+Kung Fu Panda | Kung Fu Panda 2,2,82
+Kung Fu Panda | Kung Fu Panda 3,3,87
+Kung Fu Panda | Kung Fu Panda 4,4,71
+Bourne (franchise) | The Bourne Identity,1,84
+Bourne (franchise) | The Bourne Supremacy,2,82
+Bourne (franchise) | The Bourne Ultimatum,3,92
+Bourne (franchise) | The Bourne Legacy,4,56
+Bourne (franchise) | Jason Bourne,5,54
+John Wick (franchise) | John Wick: Chapter 1,1,86
+John Wick (franchise) | John Wick: Chapter 2,2,89
+John Wick (franchise) | John Wick: Chapter 3 – Parabellum,3,89
+John Wick (franchise) | John Wick: Chapter 4,4,94
+John Wick (franchise) | Ballerina,5,75
+Rocky (franchise) | Rocky,1,93
+Rocky (franchise) | Rocky II,2,70
+Rocky (franchise) | Rocky III,3,65
+Rocky (franchise) | Rocky IV,4,39
+Rocky (franchise) | Rocky V,5,32
+Rocky (franchise) | Rocky Balboa,6,78
+Rocky (franchise) | Creed,7,95
+Rocky (franchise) | Creed II,8,83
+Rocky (franchise) | Creed III,9,89
+Indiana Jones | Raiders of the Lost Ark,1,94
+Indiana Jones | Indiana Jones and the Temple of Doom,2,77
+Indiana Jones | Indiana Jones and the Last Crusade,3,84
+Indiana Jones | Indiana Jones and the Kingdom of the Crystal Skull,4,77
+Indiana Jones | Indiana Jones and the Dial of Destiny,5,71
+The Matrix (franchise) | The Matrix,1,83
+The Matrix (franchise) | The Matrix Reloaded,2,74
+The Matrix (franchise) | The Animatrix,3,89
+The Matrix (franchise) | The Matrix Revolutions,4,34
+The Matrix (franchise) | The Matrix Resurrections,5,63
+Mad Max | Mad Max,1,90
+Mad Max | Mad Max 2,2,94
+Mad Max | Mad Max Beyond Thunderdome,3,79
+Mad Max | Mad Max: Fury Road,4,97
+Mad Max | Furiosa: A Mad Max Saga,5,90
+Ocean's (film series) | Ocean's Eleven,1,83
+Ocean's (film series) | Ocean's Twelve,2,55
+Ocean's (film series) | Ocean's Thirteen,3,70
+Ocean's (film series) | Ocean's 8,4,69
+Austin Powers | Austin Powers: International Man of Mystery,1,73
+Austin Powers | Austin Powers: The Spy Who Shagged Me,2,53
+Austin Powers | Austin Powers in Goldmember,3,52
+The Hangover (film series) | The Hangover,1,79
+The Hangover (film series) | The Hangover Part II,2,34
+The Hangover (film series) | The Hangover Part III,3,20
+Cars (franchise) | Cars,1,75
+Cars (franchise) | Cars 2,2,40
+Cars (franchise) | Planes,3,26
+Cars (franchise) | Planes: Fire & Rescue,4,44
+Cars (franchise) | Cars 3,5,70
+The Conjuring Universe | The Conjuring,1,86
+The Conjuring Universe | Annabelle,2,28
+The Conjuring Universe | The Conjuring 2,3,80
+The Conjuring Universe | Annabelle: Creation,4,71
+The Conjuring Universe | The Nun,5,24
+The Conjuring Universe | Annabelle Comes Home,6,64
+The Conjuring Universe | The Conjuring: The Devil Made Me Do It,7,56
+The Conjuring Universe | The Nun II,8,51
+The Conjuring Universe | The Conjuring: Last Rites,9,57
+Insidious (film series) | Insidious,1,66
+Insidious (film series) | Insidious: Chapter 2,2,38
+Insidious (film series) | Insidious: Chapter 3,3,56
+Insidious (film series) | Insidious: The Last Key,4,34
+Insidious (film series) | Insidious: The Red Door,5,40
+Insidious (film series) | Insidious: Out of the Further,6,58
+A Nightmare on Elm Street (franchise) | A Nightmare on Elm Street (1984),1,93
+A Nightmare on Elm Street (franchise) | A Nightmare on Elm Street 2: Freddy's Revenge,2,49
+A Nightmare on Elm Street (franchise) | A Nightmare on Elm Street 3: Dream Warriors,3,68
+A Nightmare on Elm Street (franchise) | A Nightmare on Elm Street 4: The Dream Master,4,56
+A Nightmare on Elm Street (franchise) | A Nightmare on Elm Street 5: The Dream Child,5,31
+A Nightmare on Elm Street (franchise) | Freddy's Dead: The Final Nightmare,6,23
+A Nightmare on Elm Street (franchise) | Wes Craven's New Nightmare,7,76
+A Nightmare on Elm Street (franchise) | Freddy vs. Jason,8,41
+A Nightmare on Elm Street (franchise) | A Nightmare on Elm Street (2010),9,14
+The Purge | The Purge,1,39
+The Purge | The Purge: Anarchy,2,57
+The Purge | The Purge: Election Year,3,55
+The Purge | The First Purge,4,56
+The Purge | The Forever Purge,5,48
+Jurassic Park (franchise) | Jurassic Park,1,91
+Jurassic Park (franchise) | The Lost World: Jurassic Park,2,57
+Jurassic Park (franchise) | Jurassic Park III,3,49
+Jurassic Park (franchise) | Jurassic World,4,72
+Jurassic Park (franchise) | Jurassic World: Fallen Kingdom,5,47
+Jurassic Park (franchise) | Jurassic World Dominion,6,28
+Jurassic Park (franchise) | Jurassic World Rebirth,7,50
+Night at the Museum (film series) | Night at the Museum,1,43
+Night at the Museum (film series) | Night at the Museum: Battle of the Smithsonian,2,45
+Night at the Museum (film series) | Night at the Museum: Secret of the Tomb,3,47
+Night at the Museum (film series) | Night at the Museum: Kahmunrah Rises Again,4,71
+List of James Bond films | Dr. No,1,95
+List of James Bond films | From Russia with Love,2,97
+List of James Bond films | Goldfinger,3,99
+List of James Bond films | Thunderball,4,85
+List of James Bond films | You Only Live Twice,5,74
+List of James Bond films | On Her Majesty's Secret Service,6,81
+List of James Bond films | Diamonds Are Forever,7,64
+List of James Bond films | Live and Let Die,8,67
+List of James Bond films | The Man with the Golden Gun,9,40
+List of James Bond films | The Spy Who Loved Me,10,82
+Police Academy (franchise) | Police Academy,1,58
+Police Academy (franchise) | Police Academy 2: Their First Assignment,2,32
+Police Academy (franchise) | Police Academy 3: Back in Training,3,36
+Police Academy (franchise) | Police Academy 4: Citizens on Patrol,4,0
+Police Academy (franchise) | Police Academy 5: Assignment Miami Beach,5,0
+Police Academy (franchise) | Police Academy 6: City Under Siege,6,0
+Police Academy (franchise) | Police Academy: Mission to Moscow,7,0
+Lethal Weapon (franchise) | Lethal Weapon,1,81
+Lethal Weapon (franchise) | Lethal Weapon 2,2,82
+Lethal Weapon (franchise) | Lethal Weapon 3,3,60
+Lethal Weapon (franchise) | Lethal Weapon 4,4,53
+Beverly Hills Cop (franchise) | Beverly Hills Cop,1,83
+Beverly Hills Cop (franchise) | Beverly Hills Cop II,2,48
+Beverly Hills Cop (franchise) | Beverly Hills Cop III,3,11
+Beverly Hills Cop (franchise) | Beverly Hills Cop: Axel F,4,66
+Back to the Future (franchise) | Back to the Future,1,92
+Back to the Future (franchise) | Back to the Future Part II,2,63
+Back to the Future (franchise) | Back to the Future Part III,3,81
+The Karate Kid (franchise) | The Karate Kid (1984),1,81
+The Karate Kid (franchise) | The Karate Kid Part II,2,48
+The Karate Kid (franchise) | The Karate Kid Part III,3,18
+The Karate Kid (franchise) | The Next Karate Kid,4,20
+The Karate Kid (franchise) | The Karate Kid (2010),5,67
+The Karate Kid (franchise) | Karate Kid: Legends,6,59
+Home Alone (franchise) | Home Alone,1,66
+Home Alone (franchise) | Home Alone 2: Lost in New York,2,35
+Home Alone (franchise) | Home Alone 3,3,36
+Home Alone (franchise) | Home Sweet Home Alone,4,15
+Jaws (franchise) | Jaws,1,97
+Jaws (franchise) | Jaws 2,2,56
+Jaws (franchise) | Jaws 3-D,3,10
+Jaws (franchise) | Jaws: The Revenge,4,2
+Child's Play (franchise) | Child's Play (1988),1,74
+Child's Play (franchise) | Child's Play 2,2,50
+Child's Play (franchise) | Child's Play 3,3,19
+Child's Play (franchise) | Bride of Chucky,4,47
+Child's Play (franchise) | Seed of Chucky,5,37
+Child's Play (franchise) | Curse of Chucky,6,78
+Child's Play (franchise) | Cult of Chucky,7,81
+Child's Play (franchise) | Child's Play (2019),8,64
+Underworld (film series) | Underworld,1,31
+Underworld (film series) | Underworld: Evolution,2,17
+Underworld (film series) | Underworld: Rise of the Lycans,3,29
+Underworld (film series) | Underworld: Awakening,4,26
+Underworld (film series) | Underworld: Blood Wars,5,21
+Blade (franchise) | Blade,1,59
+Blade (franchise) | Blade II,2,57
+Blade (franchise) | Blade: Trinity,3,24
+How to Train Your Dragon (franchise) | How to Train Your Dragon (2010),1,99
+How to Train Your Dragon (franchise) | How to Train Your Dragon 2,2,92
+How to Train Your Dragon (franchise) | How to Train Your Dragon: The Hidden World,3,90
+How to Train Your Dragon (franchise) | How to Train Your Dragon (2025),4,78
+Hotel Transylvania (franchise) | Hotel Transylvania,1,45
+Hotel Transylvania (franchise) | Hotel Transylvania 2,2,56
+Hotel Transylvania (franchise) | Hotel Transylvania 3: Summer Vacation,3,62
+Hotel Transylvania (franchise) | Hotel Transylvania: Transformania,4,47
+The Lord of the Rings (film series) | The Fellowship of the Ring,1,92
+The Lord of the Rings (film series) | The Two Towers,2,95
+The Lord of the Rings (film series) | The Return of the King,3,94
+Finding Nemo (franchise) | Finding Nemo,1,99
+Finding Nemo (franchise) | Finding Dory,2,94
+The Incredibles (franchise) | The Incredibles,1,97
+The Incredibles (franchise) | Incredibles 2,2,93
+"Monsters, Inc. (franchise) | Monsters, Inc.",1,96
+"Monsters, Inc. (franchise) | Monsters University",2,80
+Frozen (franchise) | Frozen,1,90
+Frozen (franchise) | Frozen 2,2,77
+National Treasure (franchise) | National Treasure,1,46
+National Treasure (franchise) | National Treasure: Book of Secrets,2,36
+Pitch Perfect (film series) | Pitch Perfect,1,81
+Pitch Perfect (film series) | Pitch Perfect 2,2,66
+Pitch Perfect (film series) | Pitch Perfect 3,3,28
+Bad Boys (franchise) | Bad Boys,1,44
+Bad Boys (franchise) | Bad Boys II,2,24
+Bad Boys (franchise) | Bad Boys for Life,3,76
+Bad Boys (franchise) | Bad Boys: Ride or Die,4,65
+Rush Hour (franchise) | Rush Hour,1,62
+Rush Hour (franchise) | Rush Hour 2,2,51
+Rush Hour (franchise) | Rush Hour 3,3,17
+American Pie (film series) | American Pie,1,61
+American Pie (film series) | American Pie 2,2,52
+American Pie (film series) | American Wedding,3,54
+American Pie (film series) | American Reunion,4,45
+Scary Movie (film series) | Scary Movie (2000),1,52
+Scary Movie (film series) | Scary Movie 2,2,13
+Scary Movie (film series) | Scary Movie 3,3,35
+Scary Movie (film series) | Scary Movie 4,4,34
+Scary Movie (film series) | Scary Movie 5,5,4
+Scary Movie (film series) | Scary Movie (2026),6,23
+The Expendables (franchise) | The Expendables,1,41
+The Expendables (franchise) | The Expendables 2,2,68
+The Expendables (franchise) | The Expendables 3,3,32
+The Expendables (franchise) | Expend4bles,4,14
+Taken (franchise) | Taken (2008),1,60
+Taken (franchise) | Taken 2 (2012),2,22
+Taken (franchise) | Taken 3 (2014),3,13
+Kingsman (franchise) | Kingsman: The Secret Service,1,75
+Kingsman (franchise) | Kingsman: The Golden Circle,2,50
+Kingsman (franchise) | The King's Man,3,41
+Now You See Me (film series) | Now You See Me,1,51
+Now You See Me (film series) | Now You See Me 2,2,34
+Now You See Me (film series) | Now You See Me: Now You Don't,3,60
+Zombieland (film series) | Zombieland,1,89
+Zombieland (film series) | Zombieland: Double Tap,2,68
+The Mummy (franchise) | The Mummy,1,63
+The Mummy (franchise) | The Mummy Returns,2,46
+The Mummy (franchise) | The Mummy: Tomb of the Dragon Emperor,3,13
+Jumanji (franchise) | Jumanji,1,55
+Jumanji (franchise) | Zathura: A Space Adventure,2,77
+Jumanji (franchise) | Jumanji: Welcome to the Jungle,3,77
+Jumanji (franchise) | Jumanji: The Next Level,4,72
+Top Gun (franchise) | Top Gun,1,58
+Top Gun (franchise) | Top Gun: Maverick,2,96
+Avatar (franchise) | Avatar,1,81
+Avatar (franchise) | Avatar: The Way of Water,2,76
+Avatar (franchise) | Avatar: Fire and Ash,3,66
+Tron (franchise) | Tron,1,60
+Tron (franchise) | Tron: Legacy,2,51
+Tron (franchise) | Tron: Ares,3,52
+Legally Blonde (franchise) | Legally Blonde (2001),1,71
+"Legally Blonde (franchise) | Legally Blonde 2: Red, White & Blonde (2003)",2,37
+The Santa Clause (franchise) | The Santa Clause,1,73
+The Santa Clause (franchise) | The Santa Clause 2,2,56
+The Santa Clause (franchise) | The Santa Clause 3: The Escape Clause,3,17
+The Santa Clause (franchise) | The Santa Clauses,4,57
+Sonic the Hedgehog (film series) | Sonic the Hedgehog,1,64
+Sonic the Hedgehog (film series) | Sonic the Hedgehog 2,2,69
+Sonic the Hedgehog (film series) | Sonic the Hedgehog 3,3,86
+The Lego Movie (franchise) | The Lego Movie,1,96
+The Lego Movie (franchise) | The Lego Batman Movie,2,89
+The Lego Movie (franchise) | The Lego Ninjago Movie,3,56
+The Lego Movie (franchise) | The Lego Movie 2: The Second Part,4,84
+Trolls (franchise) | Trolls,1,76
+Trolls (franchise) | Trolls World Tour,2,72
+Trolls (franchise) | Trolls Band Together,3,64
+Robocop (franchise) | RoboCop,1,84
+Robocop (franchise) | RoboCop 2,2,31
+Robocop (franchise) | RoboCop 3,3,18
+Species (film series) | Species,1,42
+Species (film series) | Species II,2,9
+Species (film series) | Species III,3,17
+Jeepers Creepers (film series) | Jeepers Creepers,1,45
+Jeepers Creepers (film series) | Jeepers Creepers 2,2,24
+Jeepers Creepers (film series) | Jeepers Creepers 3,3,17
+Jeepers Creepers (film series) | Jeepers Creepers: Reborn,4,0
+The Exorcist (franchise) | The Exorcist,1,78
+The Exorcist (franchise) | Exorcist II: The Heretic,2,10
+The Exorcist (franchise) | The Exorcist III,3,60
+The Exorcist (franchise) | Exorcist: The Beginning,4,10
+The Exorcist (franchise) | Dominion: Prequel to the Exorcist,5,29
+The Exorcist (franchise) | The Exorcist: Believer,6,22
+The Omen (franchise) | The Omen (1976),1,76
+The Omen (franchise) | Damien – Omen II,2,50
+The Omen (franchise) | The Final Conflict,3,29
+The Omen (franchise) | Omen IV: The Awakening,4,17
+The Omen (franchise) | The Omen (2006),5,26
+The Omen (franchise) | The First Omen,6,83
+Poltergeist (franchise) | Poltergeist (1982),1,88
+Poltergeist (franchise) | Poltergeist II: The Other Side,2,20
+Poltergeist (franchise) | Poltergeist III,3,15
+Poltergeist (franchise) | Poltergeist (2015),4,29
+Wrong Turn (film series) | Wrong Turn (2003),1,40
+Wrong Turn (film series) | Wrong Turn 2: Dead End,2,70
+Wrong Turn (film series) | Wrong Turn 3: Left for Dead,3,0
+Wrong Turn (film series) | Wrong Turn 4: Bloody Beginnings,4,57
+Wrong Turn (film series) | Wrong Turn (2021),5,65
+Hostel (film series) | Hostel,1,59
+Hostel (film series) | Hostel: Part II,2,44
+Hostel (film series) | Hostel: Part III,3,67
+A Quiet Place (franchise) | A Quiet Place,1,96
+A Quiet Place (franchise) | A Quiet Place Part II,2,91
+A Quiet Place (franchise) | A Quiet Place: Day One,3,86
+28 Days Later (franchise) | 28 Days Later,1,87
+28 Days Later (franchise) | 28 Weeks Later,2,73
+28 Days Later (franchise) | 28 Years Later,3,88
+28 Days Later (franchise) | 28 Years Later: The Bone Temple,4,92
+Terrifier (film series) | Terrifier,1,63
+Terrifier (film series) | Terrifier 2,2,87
+Terrifier (film series) | Terrifier 3,3,78
